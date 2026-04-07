@@ -1,0 +1,22 @@
+{
+    "version": "0.13.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/CelikE/soko/releases/download/v0.13.0/soko_0.13.0_windows_amd64.zip",
+            "bin": [
+                "soko.exe"
+            ],
+            "hash": "5df284a5ba5eb1decee552b76242312292230508c4d0ec3ca9b07395f83bcb07"
+        },
+        "arm64": {
+            "url": "https://github.com/CelikE/soko/releases/download/v0.13.0/soko_0.13.0_windows_arm64.zip",
+            "bin": [
+                "soko.exe"
+            ],
+            "hash": "1e84dd96269ed71cf98f94a0986e096a5f72fbc0ed4eedc43d4fc4a1ce6a9589"
+        }
+    },
+    "homepage": "https://github.com/CelikE/soko",
+    "license": "MIT",
+    "description": "A fast CLI to manage multiple git repositories at once."
+}
