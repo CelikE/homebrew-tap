@@ -1,19 +1,19 @@
 {
-    "version": "0.17.1",
+    "version": "0.17.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CelikE/soko/releases/download/v0.17.1/soko_0.17.1_windows_amd64.zip",
+            "url": "https://github.com/CelikE/soko/releases/download/v0.17.2/soko_0.17.2_windows_amd64.zip",
             "bin": [
                 "soko.exe"
             ],
-            "hash": "14d0cc63f93ff0c1c11f0724c5d882224ad3e3c910ba5a22e66ab576e14b72b2"
+            "hash": "ccb72ba974d611c12f944b3843588c66e8e4b4a9db54aa63847008b0894a35c8"
         },
         "arm64": {
-            "url": "https://github.com/CelikE/soko/releases/download/v0.17.1/soko_0.17.1_windows_arm64.zip",
+            "url": "https://github.com/CelikE/soko/releases/download/v0.17.2/soko_0.17.2_windows_arm64.zip",
             "bin": [
                 "soko.exe"
             ],
-            "hash": "1d28d010a150ae21977e3d07fecb8b711a4470a80a2b240869dd076f122de375"
+            "hash": "c423a981da1648b405a6f12bf5311fb8a093f683885b341d7f77e310385c1b6c"
         }
     },
     "homepage": "https://github.com/CelikE/soko",
