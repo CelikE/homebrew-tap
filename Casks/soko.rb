@@ -5,22 +5,22 @@ cask "soko" do
   on_macos do
     on_intel do
       url "https://github.com/CelikE/soko/releases/download/v#{version}/soko_#{version}_darwin_amd64.tar.gz"
-      sha256 "59e459c76aeeadb106ab87c76269306a08dcb42b7aedfa679172993cb0e303d0"
+      sha256 "d1e878a70a3bc78401bc68f7de38c7627a32b02359cbb02d63e2adce08c1ce7c"
     end
     on_arm do
       url "https://github.com/CelikE/soko/releases/download/v#{version}/soko_#{version}_darwin_arm64.tar.gz"
-      sha256 "8bdaf07b4e2ab35b09407bfc7a5d59396ba1b50046f728168e00cdf397a4f362"
+      sha256 "9a9f9b02a1f8d119e0542888615cd13ec54de4165b6fd6af58f32f65c93b378e"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/CelikE/soko/releases/download/v#{version}/soko_#{version}_linux_amd64.tar.gz"
-      sha256 "a1c34d3af48b3a2732a06e3dc660982ff9509ad1a060164375706146ea74218f"
+      sha256 "71f0f376d12e8b2c77178d8dd5a6f0eec0d37e0f2432283530b85d25b85970be"
     end
     on_arm do
       url "https://github.com/CelikE/soko/releases/download/v#{version}/soko_#{version}_linux_arm64.tar.gz"
-      sha256 "48097fb6046f3fccf802115ab717126757a5305f416bbe42708a6f1279ef107e"
+      sha256 "108dfe9d750bd0571768d71b30b2a304893024950186e597b338cd82aef3e21f"
     end
   end
 
