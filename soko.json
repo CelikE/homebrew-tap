@@ -6,14 +6,14 @@
             "bin": [
                 "soko.exe"
             ],
-            "hash": "f2fba32a4f5089ae5a3a6e0494e3799e4d4ee0651c72a7f43c50983e4a485ee3"
+            "hash": "b27a157ac451d8dc05151e3830dce6c6edff2fada4b48dacdb14946b095b1b04"
         },
         "arm64": {
             "url": "https://github.com/CelikE/soko/releases/download/v0.18.0/soko_0.18.0_windows_arm64.zip",
             "bin": [
                 "soko.exe"
             ],
-            "hash": "5ad68676e1238b39eb08e271264832a476d13a1f7959ba817f51442d77fbb8ff"
+            "hash": "3a9328a46908d3bba4568beb6058ee6422e8cef4e4cf0ac75639bf9e608ea7d8"
         }
     },
     "homepage": "https://github.com/CelikE/soko",
